@@ -1,0 +1,26 @@
+Tema do projeto: Desenvolvimento de um Software de Acessibilidade para Alunos com Deficiência Visual 
+
+1. O problema ou oportunidade percebida:
+Alunos com deficiência visual enfrentam dificuldades ao acessar e interagir com o conteúdo didático das aulas, como textos em livros e outros materiais de estudo, o que pode afetar seu desempenho acadêmico;
+
+2. A razão ou justificativa para esta demanda:
+A razão para essa demanda se baseia em princípios de equidade educacional e inclusão social. Todos os alunos têm o direito de ter acesso igualitário à educação na Constituição Federal, independentemente de suas capacidades físicas ou sensoriais. A demanda por um software que facilite o acesso ao conteúdo escolar para alunos com deficiência visual é crucial para garantir que esses alunos tenham as mesmas oportunidades de aprendizado que seus colegas;
+
+3. A descrição sucinta do produto de software que será produzido:
+O software converte textos digitais em áudio, permitindo que alunos com deficiência visual possam ouvir o conteúdo dos materiais de estudo. Os usuários carregam documentos em formatos comuns (PDF, DOC) e o software os converte em narração de áudio;
+
+4. Identifique os clientes, usuários e demais envolvidos/impactados com o produto;
+-Alunos com deficiência visual que utilizam o software para acessar o conteúdo de suas disciplinas;
+-Escolas e professores interessados em promover a inclusão de alunos com deficiência visual;
+
+5. Identifique os principais critérios de qualidade para o produto: 
+-Interface do aplicativo ser simples e intuitiva;
+-Capacidade de carregar e converter documentos em diferentes formatos;
+-Qualidade e clareza da narração de áudio; 
+-Compatibilidade com leitores de tela e tecnologias assistivas; 
+-Acessibilidade em dispositivos desktop e móveis;
+
+6. Avalie os riscos (relacionados à não entrega, falhas e de desenvolvimento).
+-Qualidade da narração do aúdio;
+-Problemas de compatibilidade, visto que que o software necessita funcionar em diferentes dispositivos;
+-Estabilidade do sistema, visto que bugs e outros erros no software problemas podem afetar a experiência do usuário e desencorajar o seu uso;
